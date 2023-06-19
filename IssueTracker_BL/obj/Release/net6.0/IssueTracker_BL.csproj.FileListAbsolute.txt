@@ -1,0 +1,15 @@
+C:\SyrenDemoApplications\IssueTracker_sln\IssueTracker_BL\bin\Release\net6.0\IssueTracker_BL.deps.json
+C:\SyrenDemoApplications\IssueTracker_sln\IssueTracker_BL\bin\Release\net6.0\IssueTracker_BL.dll
+C:\SyrenDemoApplications\IssueTracker_sln\IssueTracker_BL\bin\Release\net6.0\IssueTracker_BL.pdb
+C:\SyrenDemoApplications\IssueTracker_sln\IssueTracker_BL\bin\Release\net6.0\IssueTracker_DAL.dll
+C:\SyrenDemoApplications\IssueTracker_sln\IssueTracker_BL\bin\Release\net6.0\IssueTracker_DAL.pdb
+C:\SyrenDemoApplications\IssueTracker_sln\IssueTracker_BL\obj\Release\net6.0\IssueTracker_BL.csproj.AssemblyReference.cache
+C:\SyrenDemoApplications\IssueTracker_sln\IssueTracker_BL\obj\Release\net6.0\IssueTracker_BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\SyrenDemoApplications\IssueTracker_sln\IssueTracker_BL\obj\Release\net6.0\IssueTracker_BL.AssemblyInfoInputs.cache
+C:\SyrenDemoApplications\IssueTracker_sln\IssueTracker_BL\obj\Release\net6.0\IssueTracker_BL.AssemblyInfo.cs
+C:\SyrenDemoApplications\IssueTracker_sln\IssueTracker_BL\obj\Release\net6.0\IssueTracker_BL.csproj.CoreCompileInputs.cache
+C:\SyrenDemoApplications\IssueTracker_sln\IssueTracker_BL\obj\Release\net6.0\IssueTracker_BL.csproj.CopyComplete
+C:\SyrenDemoApplications\IssueTracker_sln\IssueTracker_BL\obj\Release\net6.0\IssueTracker_BL.dll
+C:\SyrenDemoApplications\IssueTracker_sln\IssueTracker_BL\obj\Release\net6.0\refint\IssueTracker_BL.dll
+C:\SyrenDemoApplications\IssueTracker_sln\IssueTracker_BL\obj\Release\net6.0\IssueTracker_BL.pdb
+C:\SyrenDemoApplications\IssueTracker_sln\IssueTracker_BL\obj\Release\net6.0\ref\IssueTracker_BL.dll

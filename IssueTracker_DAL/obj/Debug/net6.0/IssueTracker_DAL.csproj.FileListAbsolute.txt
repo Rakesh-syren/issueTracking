@@ -1,0 +1,14 @@
+C:\SyrenDemoApplications\IssueTracker_sln\IssueTracker_DAL\bin\Debug\net6.0\IssueTracker_DAL.deps.json
+C:\SyrenDemoApplications\IssueTracker_sln\IssueTracker_DAL\bin\Debug\net6.0\IssueTracker_DAL.runtimeconfig.json
+C:\SyrenDemoApplications\IssueTracker_sln\IssueTracker_DAL\bin\Debug\net6.0\IssueTracker_DAL.dll
+C:\SyrenDemoApplications\IssueTracker_sln\IssueTracker_DAL\bin\Debug\net6.0\IssueTracker_DAL.pdb
+C:\SyrenDemoApplications\IssueTracker_sln\IssueTracker_DAL\obj\Debug\net6.0\IssueTracker_DAL.csproj.AssemblyReference.cache
+C:\SyrenDemoApplications\IssueTracker_sln\IssueTracker_DAL\obj\Debug\net6.0\IssueTracker_DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\SyrenDemoApplications\IssueTracker_sln\IssueTracker_DAL\obj\Debug\net6.0\IssueTracker_DAL.AssemblyInfoInputs.cache
+C:\SyrenDemoApplications\IssueTracker_sln\IssueTracker_DAL\obj\Debug\net6.0\IssueTracker_DAL.AssemblyInfo.cs
+C:\SyrenDemoApplications\IssueTracker_sln\IssueTracker_DAL\obj\Debug\net6.0\IssueTracker_DAL.csproj.CoreCompileInputs.cache
+C:\SyrenDemoApplications\IssueTracker_sln\IssueTracker_DAL\obj\Debug\net6.0\IssueTracker_DAL.dll
+C:\SyrenDemoApplications\IssueTracker_sln\IssueTracker_DAL\obj\Debug\net6.0\refint\IssueTracker_DAL.dll
+C:\SyrenDemoApplications\IssueTracker_sln\IssueTracker_DAL\obj\Debug\net6.0\IssueTracker_DAL.pdb
+C:\SyrenDemoApplications\IssueTracker_sln\IssueTracker_DAL\obj\Debug\net6.0\IssueTracker_DAL.genruntimeconfig.cache
+C:\SyrenDemoApplications\IssueTracker_sln\IssueTracker_DAL\obj\Debug\net6.0\ref\IssueTracker_DAL.dll
