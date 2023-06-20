@@ -126,6 +126,73 @@ namespace IssueTracker_DAL
             }
             return result;
         }
+
+        public bool AddComment(Comment commentObject)
+        {
+            bool result = false;
+            if (commentObject.Comment1 == "")
+            {
+                return result;
+            }
+
+
+            try
+            {
+
+                var comobj = (from c in context.Comments
+                              orderby c.CommentId descending
+                              select c).First();
+                commentObject.CommentId = comobj.CommentId + 1;
+            }
+            catch (Exception e)
+            {
+                commentObject.CommentId = 1;
+            }
+
+
+
+            var currTime = DateTime.Now;
+
+            commentObject.CommentedOn = currTime;
+            try
+            {
+                context.Add(commentObject);
+                context.SaveChanges();
+                result = true;
+
+            }
+            catch (Exception e)
+            {
+
+                throw new Exception(e.Message);
+
+
+
+            }
+            return result;
+
+
+        }
+
+        public List<Comment> GetCommentByIssueId(int IssueId)
+        {
+            List<Comment> comments = null;
+            try
+            {
+                comments = (from c in context.Comments
+                            where c.IssueId == IssueId
+                            orderby c.CommentedOn
+                            select c).ToList();
+
+
+            }
+            catch (Exception e)
+            {
+                throw new Exception(e.Message);
+            }
+            return comments;
+        }
+
     }
 }
 

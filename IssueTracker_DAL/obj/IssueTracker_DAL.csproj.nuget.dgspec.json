@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\SyrenDemoApplications\\IssueTracker_sln\\IssueTracker_DAL\\IssueTracker_DAL.csproj": {}
+    "C:\\Users\\SYR00415\\IssueTracker\\issueTracking\\IssueTracker_DAL\\IssueTracker_DAL.csproj": {}
   },
   "projects": {
-    "C:\\SyrenDemoApplications\\IssueTracker_sln\\IssueTracker_DAL\\IssueTracker_DAL.csproj": {
+    "C:\\Users\\SYR00415\\IssueTracker\\issueTracking\\IssueTracker_DAL\\IssueTracker_DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\SyrenDemoApplications\\IssueTracker_sln\\IssueTracker_DAL\\IssueTracker_DAL.csproj",
+        "projectUniqueName": "C:\\Users\\SYR00415\\IssueTracker\\issueTracking\\IssueTracker_DAL\\IssueTracker_DAL.csproj",
         "projectName": "IssueTracker_DAL",
-        "projectPath": "C:\\SyrenDemoApplications\\IssueTracker_sln\\IssueTracker_DAL\\IssueTracker_DAL.csproj",
-        "packagesPath": "C:\\Users\\SYR00411\\.nuget\\packages\\",
-        "outputPath": "C:\\SyrenDemoApplications\\IssueTracker_sln\\IssueTracker_DAL\\obj\\",
+        "projectPath": "C:\\Users\\SYR00415\\IssueTracker\\issueTracking\\IssueTracker_DAL\\IssueTracker_DAL.csproj",
+        "packagesPath": "C:\\Users\\SYR00415\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SYR00415\\IssueTracker\\issueTracking\\IssueTracker_DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\SYR00411\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\SYR00415\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

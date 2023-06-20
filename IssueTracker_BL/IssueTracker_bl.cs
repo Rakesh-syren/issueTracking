@@ -93,5 +93,40 @@ namespace IssueTracker_BL
             }
             return result;
         }
+
+        public bool AddCommentBL(Comment commentObject)
+        {
+            bool result = false;
+            try
+            {
+                result = logic.AddComment(commentObject);
+
+            }
+            catch (Exception e)
+            {
+
+                throw new Exception(e.Message);
+                result = false;
+
+            }
+            return result;
+
+        }
+
+        public List<Comment> GetCommentByIssueIdBL(int IssueId)
+        {
+            List<Comment> comments = null;
+            try
+            {
+                comments = logic.GetCommentByIssueId(IssueId);
+
+            }
+            catch (Exception e)
+            {
+                throw new Exception(e.Message);
+            }
+            return comments;
+        }
+
     }
 }

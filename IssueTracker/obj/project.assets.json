@@ -3261,19 +3261,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\SYR00411\\.nuget\\packages\\": {}
+    "C:\\Users\\SYR00415\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\SyrenDemoApplications\\IssueTracker_sln\\IssueTracker\\IssueTracker.csproj",
+      "projectUniqueName": "C:\\Users\\SYR00415\\IssueTracker\\issueTracking\\IssueTracker\\IssueTracker.csproj",
       "projectName": "IssueTracker",
-      "projectPath": "C:\\SyrenDemoApplications\\IssueTracker_sln\\IssueTracker\\IssueTracker.csproj",
-      "packagesPath": "C:\\Users\\SYR00411\\.nuget\\packages\\",
-      "outputPath": "C:\\SyrenDemoApplications\\IssueTracker_sln\\IssueTracker\\obj\\",
+      "projectPath": "C:\\Users\\SYR00415\\IssueTracker\\issueTracking\\IssueTracker\\IssueTracker.csproj",
+      "packagesPath": "C:\\Users\\SYR00415\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\SYR00415\\IssueTracker\\issueTracking\\IssueTracker\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\SYR00411\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\SYR00415\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3288,11 +3288,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\SyrenDemoApplications\\IssueTracker_sln\\IssueTracker_BL\\IssueTracker_BL.csproj": {
-              "projectPath": "C:\\SyrenDemoApplications\\IssueTracker_sln\\IssueTracker_BL\\IssueTracker_BL.csproj"
+            "C:\\Users\\SYR00415\\IssueTracker\\issueTracking\\IssueTracker_BL\\IssueTracker_BL.csproj": {
+              "projectPath": "C:\\Users\\SYR00415\\IssueTracker\\issueTracking\\IssueTracker_BL\\IssueTracker_BL.csproj"
             },
-            "C:\\SyrenDemoApplications\\IssueTracker_sln\\IssueTracker_DAL\\IssueTracker_DAL.csproj": {
-              "projectPath": "C:\\SyrenDemoApplications\\IssueTracker_sln\\IssueTracker_DAL\\IssueTracker_DAL.csproj"
+            "C:\\Users\\SYR00415\\IssueTracker\\issueTracking\\IssueTracker_DAL\\IssueTracker_DAL.csproj": {
+              "projectPath": "C:\\Users\\SYR00415\\IssueTracker\\issueTracking\\IssueTracker_DAL\\IssueTracker_DAL.csproj"
             }
           }
         }
